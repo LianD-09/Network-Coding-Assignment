@@ -1,0 +1,4 @@
+﻿  Server.cpp
+d:\ht\ltm\homework\homework05\server\server.cpp(225): warning C4172: returning address of local variable or temporary: replyMess
+  Server.vcxproj -> D:\HT\LTM\Homework\Homework05\Debug\Server.exe
+  Server.vcxproj -> D:\HT\LTM\Homework\Homework05\Debug\Server.pdb (Full PDB)

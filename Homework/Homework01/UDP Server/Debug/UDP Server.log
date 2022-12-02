@@ -1,0 +1,10 @@
+﻿  UDP Server.cpp
+d:\ht\ltm\homework\homework01\udp server\udp server.cpp(31): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+d:\ht\ltm\homework\homework01\udp server\udp server.cpp(64): warning C4778: 'printf' : unterminated format string '%'
+d:\ht\ltm\homework\homework01\udp server\udp server.cpp(64): warning C4474: 'printf' : too many arguments passed for format string
+  d:\ht\ltm\homework\homework01\udp server\udp server.cpp(64): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+d:\ht\ltm\homework\homework01\udp server\udp server.cpp(75): warning C4778: 'printf' : unterminated format string '%'
+d:\ht\ltm\homework\homework01\udp server\udp server.cpp(75): warning C4474: 'printf' : too many arguments passed for format string
+  d:\ht\ltm\homework\homework01\udp server\udp server.cpp(75): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  UDP Server.vcxproj -> D:\HT\LTM\Homework\Homework01\Debug\UDP Server.exe
+  UDP Server.vcxproj -> D:\HT\LTM\Homework\Homework01\Debug\UDP Server.pdb (Full PDB)

@@ -1,0 +1,5 @@
+﻿  Server.cpp
+d:\ht\ltm\homework\homework08\homework08\server.cpp(449): warning C4101: 'flags': unreferenced local variable
+d:\ht\ltm\homework\homework08\homework08\server.cpp(251): warning C4172: returning address of local variable or temporary: replyMess
+  Homework08.vcxproj -> D:\HT\LTM\Homework\Homework08\Debug\Server.exe
+  Homework08.vcxproj -> D:\HT\LTM\Homework\Homework08\Debug\Server.pdb (Full PDB)

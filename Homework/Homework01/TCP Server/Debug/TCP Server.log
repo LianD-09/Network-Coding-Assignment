@@ -1,0 +1,5 @@
+﻿  TCP Server.cpp
+d:\ht\ltm\homework\homework01\tcp server\tcp server.cpp(29): warning C4018: '<': signed/unsigned mismatch
+d:\ht\ltm\homework\homework01\tcp server\tcp server.cpp(33): warning C4172: returning address of local variable or temporary: sumStr
+  TCP Server.vcxproj -> D:\HT\LTM\Homework\Homework01\Debug\TCP Server.exe
+  TCP Server.vcxproj -> D:\HT\LTM\Homework\Homework01\Debug\TCP Server.pdb (Full PDB)

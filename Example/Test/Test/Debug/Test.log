@@ -1,0 +1,9 @@
+﻿  Test.cpp
+d:\ht\ltm\example\test\test\test.cpp(39): warning C4101: 'client2': unreferenced local variable
+d:\ht\ltm\example\test\test\test.cpp(228): warning C4101: 'buff': unreferenced local variable
+d:\ht\ltm\example\test\test\test.cpp(282): warning C4101: 'buff': unreferenced local variable
+d:\ht\ltm\example\test\test\test.cpp(338): warning C4715: 'thread': not all control paths return a value
+d:\ht\ltm\example\test\test\test.cpp(421): warning C4715: 'thread1': not all control paths return a value
+d:\ht\ltm\example\test\test\test.cpp(494): warning C4715: 'thread2': not all control paths return a value
+  Test.vcxproj -> D:\HT\LTM\Example\Test\Debug\Test.exe
+  Test.vcxproj -> D:\HT\LTM\Example\Test\Debug\Test.pdb (Full PDB)

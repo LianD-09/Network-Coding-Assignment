@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Server", "Homework08\Homework08.vcxproj", "{A9C3DC43-205C-4254-B682-06D40AD44D68}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Client", "Client\Client.vcxproj", "{7EA46F97-0020-4635-9A65-993DC635D2E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9C3DC43-205C-4254-B682-06D40AD44D68}.Debug|x64.ActiveCfg = Debug|x64
+		{A9C3DC43-205C-4254-B682-06D40AD44D68}.Debug|x64.Build.0 = Debug|x64
+		{A9C3DC43-205C-4254-B682-06D40AD44D68}.Debug|x86.ActiveCfg = Debug|Win32
+		{A9C3DC43-205C-4254-B682-06D40AD44D68}.Debug|x86.Build.0 = Debug|Win32
+		{A9C3DC43-205C-4254-B682-06D40AD44D68}.Release|x64.ActiveCfg = Release|x64
+		{A9C3DC43-205C-4254-B682-06D40AD44D68}.Release|x64.Build.0 = Release|x64
+		{A9C3DC43-205C-4254-B682-06D40AD44D68}.Release|x86.ActiveCfg = Release|Win32
+		{A9C3DC43-205C-4254-B682-06D40AD44D68}.Release|x86.Build.0 = Release|Win32
+		{7EA46F97-0020-4635-9A65-993DC635D2E0}.Debug|x64.ActiveCfg = Debug|x64
+		{7EA46F97-0020-4635-9A65-993DC635D2E0}.Debug|x64.Build.0 = Debug|x64
+		{7EA46F97-0020-4635-9A65-993DC635D2E0}.Debug|x86.ActiveCfg = Debug|Win32
+		{7EA46F97-0020-4635-9A65-993DC635D2E0}.Debug|x86.Build.0 = Debug|Win32
+		{7EA46F97-0020-4635-9A65-993DC635D2E0}.Release|x64.ActiveCfg = Release|x64
+		{7EA46F97-0020-4635-9A65-993DC635D2E0}.Release|x64.Build.0 = Release|x64
+		{7EA46F97-0020-4635-9A65-993DC635D2E0}.Release|x86.ActiveCfg = Release|Win32
+		{7EA46F97-0020-4635-9A65-993DC635D2E0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

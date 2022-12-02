@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Client.cpp
+d:\ht\ltm\homework\homework03\client\client.cpp(71): warning C4172: returning address of local variable or temporary: message
+d:\ht\ltm\homework\homework03\client\client.cpp(156): warning C4172: returning address of local variable or temporary: buff
+  Client.vcxproj -> D:\HT\LTM\Homework\Homework03\Debug\Client.exe
+  Client.vcxproj -> D:\HT\LTM\Homework\Homework03\Debug\Client.pdb (Full PDB)

@@ -1,0 +1,7 @@
+﻿  Server.cpp
+d:\ht\ltm\homework\homework03\server\server.cpp(4): warning C4603: 'FD_SETSIZE': macro is not defined or definition is different after precompiled header use
+  d:\ht\ltm\homework\homework03\server\server.cpp(4): note: Add macro to precompiled header instead of defining here
+  d:\ht\ltm\homework\homework03\server\server.cpp(5): note: use of precompiled header
+d:\ht\ltm\homework\homework03\server\server.cpp(158): warning C4172: returning address of local variable or temporary: replyMess
+  Server.vcxproj -> D:\HT\LTM\Homework\Homework03\Debug\Server.exe
+  Server.vcxproj -> D:\HT\LTM\Homework\Homework03\Debug\Server.pdb (Full PDB)
